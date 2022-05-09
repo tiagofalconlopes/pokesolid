@@ -1,6 +1,0 @@
-examples/mock/PokemonMock.java
- examples.mock.PokemonMock
-examples/pokesolidexample/services/PokemonFightServiceTest.java
- examples.pokesolidexample.services.PokemonFightServiceTest
-examples/pokesolidexample/services/PokemonLifeServiceTest.java
- examples.pokesolidexample.services.PokemonLifeServiceTest
